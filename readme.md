@@ -1,4 +1,4 @@
-Learning from [CoreKV](https://github.com/hardcore-os/corekv)
+Learning from CoreKV
 
 This is a toy KV Storage Engine with the implementation of LSM Tree
 
